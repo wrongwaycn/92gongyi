@@ -1,0 +1,4 @@
+Django==1.4
+mysql-python
+django-debug-toolbar
+South
